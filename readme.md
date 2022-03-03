@@ -1,0 +1,5 @@
+- rtl source code goes to /rtl
+- put top level module names in syn_list.csv
+- configure clk frequency in syn_script.tcl
+- configure tech node in auto_syn.sh
+- run hardware synthesis by ./auto_syn.sh on cae machines
