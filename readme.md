@@ -3,3 +3,4 @@
 - configure clk frequency in syn_script.tcl
 - configure tech node in auto_syn.sh
 - run hardware synthesis by ./auto_syn.sh on cae machines
+- generated reports can be found in /32nm_*vt
